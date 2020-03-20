@@ -25,7 +25,7 @@ Gabriel Alejandro de León:
 // El Origen
 
 Brian Batz:
-// Star Wars la Guerra de los Clones
+//
 
 Emilio Medina: 
 //
@@ -34,7 +34,7 @@ Daniel Chocoy
 //About time
 
 David Gomez:
-//
+//Rendirse jamas 3
 
 Josue Maldonado
 //
